@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/Harikrishnasinh/reactApi1.github.io./static/css/main.ceb5cadc.css",
-    "main.js": "/Harikrishnasinh/reactApi1.github.io./static/js/main.de5578a2.js",
-    "static/media/image.webp": "/Harikrishnasinh/reactApi1.github.io./static/media/image.6fdb38024201ebd38f01.webp",
-    "index.html": "/Harikrishnasinh/reactApi1.github.io./index.html",
-    "main.ceb5cadc.css.map": "/Harikrishnasinh/reactApi1.github.io./static/css/main.ceb5cadc.css.map",
-    "main.de5578a2.js.map": "/Harikrishnasinh/reactApi1.github.io./static/js/main.de5578a2.js.map"
+    "main.css": "/Harikrishnasinh/reactApi1/static/css/main.ceb5cadc.css",
+    "main.js": "/Harikrishnasinh/reactApi1/static/js/main.faa7b3ae.js",
+    "static/media/image.webp": "/Harikrishnasinh/reactApi1/static/media/image.6fdb38024201ebd38f01.webp",
+    "index.html": "/Harikrishnasinh/reactApi1/index.html",
+    "main.ceb5cadc.css.map": "/Harikrishnasinh/reactApi1/static/css/main.ceb5cadc.css.map",
+    "main.faa7b3ae.js.map": "/Harikrishnasinh/reactApi1/static/js/main.faa7b3ae.js.map"
   },
   "entrypoints": [
     "static/css/main.ceb5cadc.css",
-    "static/js/main.de5578a2.js"
+    "static/js/main.faa7b3ae.js"
   ]
 }
